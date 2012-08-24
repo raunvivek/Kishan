@@ -5,5 +5,5 @@ int main()
 	printf("Hello World");
 	add();
 	cout<<"a";
-	return 0;
+	return 1;
 }
